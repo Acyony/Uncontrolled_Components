@@ -1,0 +1,27 @@
+
+.container_CheckValuesClass {
+    background-color: #FBE7C6;
+    height: 65vh;
+    margin-top: 6rem;
+    margin-bottom: 4rem;
+  }
+  
+  .form_CheckValuesClass {
+    padding-top: 2rem;
+    
+  }
+  
+  .button_CheckValuesClass {
+    background-color: #A0E7E5;
+    margin-bottom: 1rem;
+  }
+  
+  .span_CheckValuesClass {
+    padding: 1rem;
+    color: #189AB4;
+  }
+
+  .p_CheckValuesClass {
+      padding-top: 1rem;
+      text-align: center;
+  }
